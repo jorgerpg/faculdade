@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/home/jorge/Downloads/selenium-java-4.9.1/selenium-chromium-driver-4.9.1-sources.jar",
+        "/home/jorge/Downloads/selenium-server-4.9.1.jar"
+    ],
+    "java.compile.nullAnalysis.mode": "automatic"
+}
